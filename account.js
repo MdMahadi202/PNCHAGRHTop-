@@ -1,7 +1,7 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME PNCHAGRHTop❶ 
 // =======================================================
-var website_name = "YASIN";
+var website_name = 💎 PG TopUp BD 💎
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
