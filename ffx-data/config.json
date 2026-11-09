@@ -1,7 +1,6 @@
 {
   "logo": null,
   "ffBanner": null,
-  "ffPackages": null,
   "banners": [
     "banner-1794237871787-5384.jpg",
     "banner-1794237886355-8388.jpg",
@@ -20,5 +19,10 @@
       "label": "YouTube",
       "url": ""
     }
-  ]
+  ],
+  "images": {
+    "pop": "img-pop-1794240393656.jpg"
+  },
+  "prod": null,
+  "texts": null
 }
